@@ -1,5 +1,5 @@
 - 🍋 Hi, I’m @Lemon73
-- 👀 I’m interested in Linux
+- 👀 I’m interested in HTML
 - 🌱 I’m currently learning Unity Game Engine
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
