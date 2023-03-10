@@ -2,9 +2,9 @@
 Lemon73と申します。<br>
 LECという個人サークルで自作サイトを作ったり、動画を作ったりしています。<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemon73-Computing&count_private=true&theme=buefy&show_icons=true&layout=compact)](https://github.com/Lemon73-Computing/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemon73-Computing&count_private=true&theme=buefy&show_icons=true&layout=compact)
 <br>
-[![Lemon73's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lemon73-Computing&count_private=true&theme=buefy&show_icons=true)](https://github.com/Lemon73-Computing/github-readme-stats)
+![Lemon73's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lemon73-Computing&count_private=true&theme=buefy&show_icons=true)
 
 
 <!--
