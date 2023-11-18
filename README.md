@@ -1,7 +1,7 @@
 Hello!<br />
 I am creating own sites, drawing pictures and others.
 
-### LINK
+### URL
 #### Remote git
 - [GitHub](https://github.com/Lemon73-Computing) (here)
 - [GitLab](https://gitlab.com/lemon73)
@@ -13,7 +13,7 @@ I am creating own sites, drawing pictures and others.
 
 #### Own site
 - [LEC](https://lemon73.gitlab.io) (ja)
-- [Old site](https://lemon73-computing.github.io/LEC-MainSite/) (ja)
+- [LEC old site](https://lemon73-computing.github.io/LEC-MainSite/) (ja)
 - [Alice Novel](https://alicenovel.web.app) (ja)
 
 ![Lemon73's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lemon73-Computing&count_private=true&show_icons=true&rank_icon=github)<br />
