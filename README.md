@@ -1,6 +1,13 @@
 Hello!<br />
 I am creating own sites, drawing pictures and others.
 
+### My skill
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=blender,bootstrap,cs,css,devto,discord,dotnet,firebase,git,github,githubactions,gitlab,html,linux,md,mastodon,misskey,unity,vim,visualstudio,vscode,wasm&theme=light&perline=10" />
+</a>
+
+
 ### URL
 #### Remote git
 - [GitHub](https://github.com/Lemon73-Computing) (here)
