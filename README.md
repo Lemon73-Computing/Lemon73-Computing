@@ -1,11 +1,15 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lemon73-Computing&count_private=true&theme=shadow_blue&show_icons=true&rank_icon=github" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemon73-Computing&count_private=true&theme=shadow_blue&layout=compact" />
-</p>
+<a href="https://github.com/Lemon73-Computing?tab=repositories">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Lemon73-Computing&count_private=true&theme=shadow_blue&show_icons=true&rank_icon=github" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemon73-Computing&count_private=true&theme=shadow_blue&layout=compact" />
+  </p>
+</a>
 
 ---
 ### My skills
-<img src="https://skillicons.dev/icons?i=blender,bootstrap,cs,css,devto,discord,dotnet,firebase,git,github,githubactions,gitlab,html,linux,md,mastodon,misskey,unity,vim,visualstudio,vscode,wasm&perline=10" />
+<a href="https://github.com/Lemon73-Computing?tab=repositories">
+  <img src="https://skillicons.dev/icons?i=blender,bootstrap,cs,css,devto,discord,dotnet,firebase,git,github,githubactions,gitlab,html,linux,md,mastodon,misskey,unity,vim,visualstudio,vscode,wasm&perline=10" />
+</a>
 
 ### URL
 #### Remote git
