@@ -7,9 +7,65 @@
 
 ---
 ### My skills
+#### Communities
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/kde.svg" width="64px">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/simpleicons.svg" width="64px">
+
+#### Operating System
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/linux.svg" width="64px">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/debian.svg" width="64px">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/ubuntu.svg" width="64px">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/windows.svg" width="64px">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/windows10.svg" width="64px">
+
+#### Languages
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/csharp.svg" width="64px">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/html5.svg" width="64px">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/css3.svg" width="64px">
+
+#### Frameworks
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/dotnet.svg" width="64px">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/blazor.svg" width="64px">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/bootstrap.svg" width="64px">
+
+#### Socialmedia - Tech
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/gitlab.svg" width="64px">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/github.svg" width="64px">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/azuredevops.svg" width="64px">
+
+#### Socialmedia - Blog
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/devdotto.svg" width="64px">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/qiita.svg" width="64px">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/zenn.svg" width="64px">
+
+#### Socialmedia - Others
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/reddit.svg" width="64px">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/misskey.svg" width="64px">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/discord.svg" width="64px">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/mastodon.svg" width="64px">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/deviantart.svg" width="64px">
+
+#### Graphics
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/krita.svg" width="64px">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/medibangpaint.svg" width="64px">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/inkscape.svg" width="64px">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/blender.svg" width="64px">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/kdenlive.svg" width="64px">
+
+#### Other Technologies
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/git.svg" width="64px">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/trello.svg" width="64px">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/vmware.svg" width="64px">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/githubpages.svg" width="64px">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/githubactions.svg" width="64px">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/firebase.svg" width="64px">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/googlefonts.svg" width="64px">
+
+<!--
 <a href="https://github.com/Lemon73-Computing?tab=repositories">
   <img src="https://skillicons.dev/icons?i=blender,bootstrap,cs,css,devto,discord,dotnet,firebase,git,github,githubactions,gitlab,html,linux,md,mastodon,misskey,unity,vim,visualstudio,vscode,wasm&perline=10" />
 </a>
+-->
 
 ### URL
 #### Remote git
