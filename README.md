@@ -7,6 +7,7 @@
 
 ---
 ### My skills
+<!--
 #### Communities
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/kde.svg" width="64px">
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/simpleicons.svg" width="64px">
@@ -60,12 +61,11 @@
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/githubactions.svg" width="64px">
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/firebase.svg" width="64px">
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/googlefonts.svg" width="64px">
+-->
 
-<!--
 <a href="https://github.com/Lemon73-Computing?tab=repositories">
   <img src="https://skillicons.dev/icons?i=blender,bootstrap,cs,css,devto,discord,dotnet,firebase,git,github,githubactions,gitlab,html,linux,md,mastodon,misskey,unity,vim,visualstudio,vscode,wasm&perline=10" />
 </a>
--->
 
 ### URL
 #### Remote git
