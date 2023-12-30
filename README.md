@@ -1,7 +1,23 @@
+## Hello!
+<a href="https://lemon73.gitlab.io/">
+    <img src="https://img.shields.io/badge/WebSite-12100E?logo=html5&color=fe6e95&logoColor=white" />
+</a>
+<a href="https://www.reddit.com/user/Lemon73-Computing">
+    <img src="https://img.shields.io/badge/Reddit-12100E?logo=reddit&color=282A36&logoColor=white" />
+</a>
+<a href="https://github.com/Lemon73-Computing">
+    <img src="https://img.shields.io/badge/GitHub-12100E?logo=github&color=fe6e95&logoColor=white" />
+</a>
+<a href="https://gitlab.com/lemon73">
+    <img src="https://img.shields.io/badge/Gitlab-12100E?logo=gitlab&color=282A36&logoColor=white" />
+</a>
+
+### 📈 GitHub stats
 <a href="https://github.com/Lemon73-Computing?tab=repositories">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Lemon73-Computing&count_private=true&theme=shadow_blue&show_icons=true&rank_icon=github" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemon73-Computing&count_private=true&theme=shadow_blue&layout=compact" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Lemon73-Computing&theme=dracula&hide_border=true&date_format=%5BY.%5Dn.j&card_width=512" alt="GitHub Streak" /><br />
+    <img src="https://github-readme-stats.vercel.app/api?username=Lemon73-Computing&count_private=true&theme=dracula&show_icons=true&rank_icon=github&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemon73-Computing&count_private=true&theme=dracula&layout=compact&hide_border=true" />
   </p>
 </a>
 
