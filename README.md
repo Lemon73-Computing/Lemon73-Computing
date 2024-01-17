@@ -81,7 +81,7 @@
   <img src="https://skillicons.dev/icons?i=blender,bootstrap,cs,css,devto,discord,dotnet,firebase,git,github,githubactions,gitlab,html,linux,md,mastodon,misskey,unity,vim,visualstudio,vscode,wasm&perline=10" />
 </a>
 
-### URL
+### Lemon73 Links
 #### Remote git
 - [GitHub](https://github.com/Lemon73-Computing) (here)
 - [GitLab](https://gitlab.com/lemon73)
