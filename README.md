@@ -82,7 +82,7 @@
 </a>
 
 ### Lemon73 Links
-#### Remote git
+#### Git
 - [GitHub](https://github.com/Lemon73-Computing) (here)
 - [GitLab](https://gitlab.com/lemon73)
 - [KDE Invent](https://invent.kde.org/futurelemon)
