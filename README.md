@@ -82,7 +82,7 @@
 </a>
 
 ### Lemon73 Links
-#### Git
+#### Remote Git
 - [GitHub](https://github.com/Lemon73-Computing) (here)
 - [GitLab](https://gitlab.com/lemon73)
 - [KDE Invent](https://invent.kde.org/futurelemon)
@@ -92,7 +92,7 @@
 - [Zenn](https://zenn.dev/lemon73) (Japanese)
 - [dev.to](https://dev.to/lemon73) (English)
 
-#### Own site
+#### Own website
 - [LEC](https://lemon73.gitlab.io) (Japanese)
 - [LEC old site](https://lemon73-computing.github.io/LEC-MainSite/) (Japanese)
 - [Alice Novel](https://alicenovel.web.app) (Japanese)
