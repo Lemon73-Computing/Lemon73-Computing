@@ -93,6 +93,7 @@
 - [dev.to](https://dev.to/lemon73) (English)
 
 #### Own website
+- [Lemon73 Blog](https://lemon73-computing.github.io/blog/) (Japanese/English)
 - [LEC](https://lemon73.gitlab.io) (Japanese)
 - [LEC old site](https://lemon73-computing.github.io/LEC-MainSite/) (Japanese)
 - [Alice Novel](https://alicenovel.web.app) (Japanese)
