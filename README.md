@@ -1,4 +1,4 @@
-## Hello!
+## 👋 Hello!
 <a href="https://lemon73.gitlab.io/">
     <img src="https://img.shields.io/badge/WebSite-12100E?logo=html5&color=fe6e95&logoColor=white" />
 </a>
@@ -82,6 +82,9 @@
 </a>
 
 ### Lemon73 Links
+#### Social
+- [Misskey.io](https://misskey.io/@lemon73) (Fediverse - You can contact me via Mastodon or Misskey)
+
 #### Remote Git
 - [GitHub](https://github.com/Lemon73-Computing) (here)
 - [GitLab](https://gitlab.com/lemon73)
