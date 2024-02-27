@@ -85,6 +85,7 @@
 #### Social
 - Misskey.io: [@lemon73](https://misskey.io/@lemon73)<br />
 (Fediverse - You can contact me via Mastodon or Misskey)
+- Matrix: [@lemon73](https://matrix.to/#/@lemon73:matrix.org)
 
 #### Remote Git
 - GitHub: [@Lemon73-Computing](https://github.com/Lemon73-Computing) (here)
