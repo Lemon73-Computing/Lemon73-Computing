@@ -83,17 +83,18 @@
 
 ### Lemon73 Links
 #### Social
-- [Misskey.io](https://misskey.io/@lemon73) (Fediverse - You can contact me via Mastodon or Misskey)
+- Misskey.io: [@lemon73](https://misskey.io/@lemon73)<br />
+(Fediverse - You can contact me via Mastodon or Misskey)
 
 #### Remote Git
-- [GitHub](https://github.com/Lemon73-Computing) (here)
-- [GitLab](https://gitlab.com/lemon73)
-- [KDE Invent](https://invent.kde.org/futurelemon)
+- GitHub: [@Lemon73-Computing](https://github.com/Lemon73-Computing) (here)
+- GitLab: [@lemon73](https://gitlab.com/lemon73)
+- KDE Invent: [@futurelemon](https://invent.kde.org/futurelemon)
 
 #### Dev article
-- [Qiita](https://qiita.com/Lemon73) (Japanese)
-- [Zenn](https://zenn.dev/lemon73) (Japanese)
-- [dev.to](https://dev.to/lemon73) (English)
+- Qiita: [@Lemon73](https://qiita.com/Lemon73) (Japanese)
+- Zenn: [@lemon73](https://zenn.dev/lemon73) (Japanese)
+- Dev.to: [@lemon73](https://dev.to/lemon73) (English)
 
 #### Own website
 - [Lemon73 Blog](https://lemon73-computing.github.io/blog/) (Japanese/English)
