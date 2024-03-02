@@ -78,7 +78,7 @@
 -->
 
 <a href="https://github.com/Lemon73-Computing?tab=repositories">
-  <img src="https://skillicons.dev/icons?i=blender,bootstrap,cs,css,devto,discord,dotnet,firebase,git,github,githubactions,gitlab,html,linux,md,mastodon,misskey,unity,vim,visualstudio,vscode,wasm&perline=10" />
+  <img src="https://skillicons.dev/icons?i=bash,blender,bootstrap,cs,css,debian,devto,discord,dotnet,firebase,git,github,githubactions,gitlab,gmail,html,linux,md,mastodon,misskey,react,ubuntu,unity,vue,vim,visualstudio,vscode,wasm,windows&perline=10" />
 </a>
 
 ### Lemon73 Links
