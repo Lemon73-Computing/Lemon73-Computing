@@ -97,7 +97,7 @@
 - Zenn: [@lemon73](https://zenn.dev/lemon73) (Japanese)
 - Dev.to: [@lemon73](https://dev.to/lemon73) (English)
 
-#### Own website
+#### My own website
 - [Lemon73 Blog](https://lemon73-computing.github.io/blog/) (Japanese/English)
 - [LEC](https://lemon73.gitlab.io) (Japanese)
 - [LEC old site](https://lemon73-computing.github.io/LEC-MainSite/) (Japanese)
