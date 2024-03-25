@@ -14,9 +14,10 @@
 
 ### 📈 GitHub stats
 <a href="https://github.com/Lemon73-Computing?tab=repositories">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Lemon73-Computing&theme=dracula&hide_border=true&date_format=%5BY.%5Dn.j&card_width=512" alt="GitHub Streak" /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Lemon73-Computing&count_private=true&theme=dracula&show_icons=true&rank_icon=github&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemon73-Computing&count_private=true&theme=dracula&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lemon73-Computing&show_icons=true&rank_icon=github&theme=dracula&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemon73-Computing&layout=compact&theme=dracula&hide_border=true&count_private=true" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Lemon73-Computing&date_format=%5BY.%5Dn.j&theme=dracula&hide_border=true&count_private=true" /><br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lemon73-computing&theme=dracula&hide_border=true&count_private=true" />
 </a>
 
 ---
@@ -98,7 +99,7 @@
 - Dev.to: [@lemon73](https://dev.to/lemon73) (English)
 
 #### My own website
+- [Lemon's Resting Area](https://lemon73-computing.github.io) (Japanese)
 - [Lemon73 Blog](https://lemon73-computing.github.io/blog/) (Japanese/English)
-- [LEC new website](https://lemon73.gitlab.io) (Japanese)
-- [LEC old website](https://lemon73-computing.github.io/LEC-MainSite/) (Japanese)
+- [LEC website](https://lemon73.gitlab.io) (Japanese)
 - [Alice Novel](https://alicenovel.web.app) (Japanese)
