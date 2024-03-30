@@ -21,12 +21,18 @@
 </a>
 
 ---
-### My skills
+### 💼 My skills
 <a href="https://github.com/Lemon73-Computing?tab=repositories">
   <img src="https://skillicons.dev/icons?i=bash,blender,bootstrap,cs,css,debian,devto,discord,dotnet,firebase,git,github,githubactions,gitlab,gmail,html,linux,md,mastodon,misskey,react,ubuntu,unity,vue,vim,visualstudio,vscode,wasm,windows&perline=10" />
 </a>
 
-### Lemon73 Links
+### 🏢 Organizations
+- [Lemon's Resting Area](https://lemon73-computing.github.io) (Administrator)
+  - Ivy Cafeteria
+  - [Alice Project](https://alicenovel.web.app)
+- [Japan KDE User Group](https://jp.kde.org) (Member)
+
+### 🔗 Lemon73 Links
 #### Social
 - Misskey.io: [@lemon73](https://misskey.io/@lemon73)<br />
 (Fediverse - You can contact me via Mastodon or Misskey)
