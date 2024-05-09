@@ -1,5 +1,5 @@
 ## 👋 Hello!
-<a href="https://lemon73.gitlab.io/">
+<a href="https://lemon73-computing.github.io/">
     <img src="https://img.shields.io/badge/WebSite-12100E?logo=html5&color=fe6e95&logoColor=white" />
 </a>
 <a href="https://www.reddit.com/user/Lemon73-Computing">
