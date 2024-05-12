@@ -22,9 +22,13 @@
 
 ---
 ### 💼 My skills
+#### General
 <a href="https://github.com/Lemon73-Computing?tab=repositories">
   <img src="https://skillicons.dev/icons?i=bash,blender,bootstrap,cs,css,debian,devto,discord,dotnet,firebase,git,github,githubactions,gitlab,gmail,html,linux,md,mastodon,misskey,react,ubuntu,unity,vue,vim,visualstudio,vscode,wasm,windows&perline=10" />
 </a>
+
+#### Qualification
+- [CEFR](https://www.cambridgeenglish.org/exams-and-tests/cefr/) A2
 
 ### 🏢 Organizations
 - [Lemon's Resting Area](https://lemon73-computing.github.io) (Administrator)
