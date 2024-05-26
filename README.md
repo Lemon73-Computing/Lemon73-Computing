@@ -27,8 +27,8 @@
   <img src="https://skillicons.dev/icons?i=bash,blender,bootstrap,cs,css,debian,devto,discord,dotnet,firebase,git,github,githubactions,gitlab,gmail,html,linux,md,mastodon,misskey,react,ubuntu,unity,vue,vim,visualstudio,vscode,wasm,windows&perline=10" />
 </a>
 
-#### Qualification
-- [CEFR](https://www.cambridgeenglish.org/exams-and-tests/cefr/) A2
+#### Qualifications
+- [CEFR](https://www.cambridgeenglish.org/exams-and-tests/cefr/) A2 - 
 
 ### 🏢 Organizations
 - [Lemon's Resting Area](https://lemon73-computing.github.io) (Administrator)
@@ -37,7 +37,7 @@
 - [Japan KDE User Group](https://jp.kde.org) (Member)
 
 ### 🔗 Lemon73 Links
-#### Social
+#### Socials
 - Misskey.io: [@lemon73](https://misskey.io/@lemon73)<br />
 (Fediverse - You can contact me via Mastodon or Misskey)
 - Matrix: [@lemon73](https://matrix.to/#/@lemon73:matrix.org)
@@ -47,12 +47,12 @@
 - GitLab: [@lemon73](https://gitlab.com/lemon73)
 - KDE Invent: [@futurelemon](https://invent.kde.org/futurelemon)
 
-#### Dev article
+#### Dev articles
 - Qiita: [@Lemon73](https://qiita.com/Lemon73) (Japanese)
 - Zenn: [@lemon73](https://zenn.dev/lemon73) (Japanese)
 - Dev.to: [@lemon73](https://dev.to/lemon73) (English)
 
-#### My own website
+#### My own websites
 - [Lemon's Resting Area website](https://lemon73-computing.github.io) (Japanese)
 - [Lemon73 Blog](https://lemon73-computing.github.io/blog/) (Japanese)
 - [LEC website](https://lemon73.gitlab.io) (Japanese)
