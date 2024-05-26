@@ -28,7 +28,8 @@
 </a>
 
 #### Qualifications
-- [CEFR](https://www.cambridgeenglish.org/exams-and-tests/cefr/) A2
+- Languages
+  - English - [CEFR A2](./qualifications/cefr.md)
 
 ### 🏢 Organizations
 - [Lemon's Resting Area](https://lemon73-computing.github.io) (Administrator)
