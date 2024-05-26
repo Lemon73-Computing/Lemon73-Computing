@@ -30,6 +30,9 @@
 #### Qualifications
 - Languages
   - English - [CEFR A2](./qualifications/cefr.md)
+  - Japanese - [Kanken](./qualifications/japanese.md)
+- Sciences
+  - Mathematics - [Suken](./qualifications/math.md)
 
 ### 🏢 Organizations
 - [Lemon's Resting Area](https://lemon73-computing.github.io) (Administrator)

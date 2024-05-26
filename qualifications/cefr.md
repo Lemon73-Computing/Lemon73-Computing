@@ -21,5 +21,5 @@
 | Grade 3 | A1 | Junior high school graduates |
 
 [Eiken]: https://www.eiken.or.jp/eiken/en
-[CEFR]: https://www.cambridgeenglish.org/exams-and-tests/cefr/
-[MEXT]: https://www.mext.go.jp/en/
+[CEFR]: https://www.cambridgeenglish.org/exams-and-tests/cefr
+[MEXT]: https://www.mext.go.jp/en
