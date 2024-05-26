@@ -53,7 +53,7 @@
 - Dev.to: [@lemon73](https://dev.to/lemon73) (English)
 
 #### My own website
-- [Lemon's Resting Area](https://lemon73-computing.github.io) (Japanese)
-- [Lemon73 Blog](https://lemon73-computing.github.io/blog/) (Japanese/English)
+- [Lemon's Resting Area website](https://lemon73-computing.github.io) (Japanese)
+- [Lemon73 Blog](https://lemon73-computing.github.io/blog/) (Japanese)
 - [LEC website](https://lemon73.gitlab.io) (Japanese)
 - [Alice Novel](https://alicenovel.web.app) (Japanese)
