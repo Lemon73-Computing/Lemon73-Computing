@@ -27,12 +27,12 @@
   <img src="https://skillicons.dev/icons?i=bash,blender,bootstrap,cs,css,debian,devto,discord,dotnet,firebase,git,github,githubactions,gitlab,gmail,html,linux,md,mastodon,misskey,react,ubuntu,unity,vue,vim,visualstudio,vscode,wasm,windows&perline=10" />
 </a>
 
-#### Qualifications
-- Languages
-  - English - [CEFR A2](./qualifications/cefr.md)
-  - Japanese - [Kanji Grade 3](./qualifications/japanese.md)
-- Sciences
-  - Mathematics - [Grade 3](./qualifications/math.md)
+#### Languages
+- Japanese (Native / [Kanji Grade 3](./qualifications/japanese.md))
+- English (Second-language / [CEFR A2](./qualifications/cefr.md))
+
+#### Certifications
+- [Mathematics Grade 3](./qualifications/math.md) certificated by Japanese foundation (The Mathematics Certification Institute of Japan). (20xx)
 
 ### 🏢 Organizations
 - [Lemon's Resting Area](https://lemon73-computing.github.io) (Administrator)
