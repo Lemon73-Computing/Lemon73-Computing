@@ -32,7 +32,7 @@
 - English (Second-language / [CEFR A2](./qualifications/cefr.md))
 
 #### Certifications
-- [Mathematics Grade 3](./qualifications/math.md) certificated by Japanese foundation (The Mathematics Certification Institute of Japan). (20xx)
+- [Mathematics Grade 3](./qualifications/math.md) certificated by Japanese foundation (The Mathematics Certification Institute of Japan). (2020)
 
 ### 🏢 Organizations
 - [Lemon's Resting Area](https://lemon73-computing.github.io) (Administrator)
