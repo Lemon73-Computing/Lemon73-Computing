@@ -35,14 +35,14 @@
 - [Mathematics Grade 3](./qualifications/math.md) certificated by Japanese foundation (The Mathematics Certification Institute of Japan). (2020)
 
 ### 🏢 Organizations
-- [Lemon's Resting Area](https://lemon73-computing.github.io) (Administrator)
-  - Ivy Cafeteria
-  - [Alice Project](https://alicenovel.web.app)
-- [Japan KDE User Group](https://jp.kde.org) (Member)
+- 🍋 [Lemon's Resting Area](https://lemon73-computing.github.io) (Administrator)
+  - 🌿 Ivy Cafeteria / [GitHub](https://github.com/IvyCafe)
+  - 📕 [Alice Project](https://alicenovel.web.app) / [GitHub](https://github.com/AliceNovel)
+- 🌐 [Japan KDE User Group](https://jp.kde.org) (Member)
 
 ### 🔗 Lemon73 Links
 #### Socials
-- Misskey.io: [@lemon73](https://misskey.io/@lemon73)<br />
+- Misskey.io: [@lemon73](https://misskey.io/@lemon73)  
 (Fediverse - You can contact me via Mastodon or Misskey)
 - Matrix: [@lemon73](https://matrix.to/#/@lemon73:matrix.org)
 
