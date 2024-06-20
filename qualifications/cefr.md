@@ -17,6 +17,7 @@
 
 | [Eiken] level | [CEFR] level | [MEXT] benchmark |
 | - | - | - |
+| Grade 2 | B1 | High school graduates |
 | Grade Pre-2 | A2 | High school graduates |
 | Grade 3 | A1 | Junior high school graduates |
 

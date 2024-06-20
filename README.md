@@ -29,7 +29,7 @@
 
 #### Languages
 - Japanese (Native / [Kanji Grade 3](./qualifications/japanese.md))
-- English (Second-language / [CEFR A2](./qualifications/cefr.md))
+- English (Second-language / [CEFR B1](./qualifications/cefr.md))
 
 #### Certifications
 - [Mathematics Grade 3](./qualifications/math.md) certificated by Japanese foundation (The Mathematics Certification Institute of Japan). (2020)
