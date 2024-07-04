@@ -15,7 +15,7 @@
 ### 📈 GitHub stats
 <a href="https://github.com/Lemon73-Computing?tab=repositories">
   <img src="https://github-readme-stats.vercel.app/api?username=Lemon73-Computing&show_icons=true&rank_icon=github&theme=dracula&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemon73-Computing&layout=compact&theme=dracula&hide_border=true&count_private=true" /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemon73-Computing&layout=compact&theme=dracula&hide_border=true&count_private=true&hide=jupyter%20notebook" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Lemon73-Computing&date_format=%5BY.%5Dn.j&theme=dracula&hide_border=true&count_private=true" /><br />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lemon73-computing&theme=dracula&hide_border=true&count_private=true" />
 </a>
