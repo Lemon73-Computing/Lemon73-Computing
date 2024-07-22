@@ -38,7 +38,8 @@
 - 🍋 [Lemon's Resting Area](https://lemon73-computing.github.io) (Administrator)
   - 🌿 Ivy Cafeteria / [GitHub](https://github.com/IvyCafe)
   - 📕 [Alice Project](https://alicenovel.web.app) / [GitHub](https://github.com/AliceNovel)
-- 🌐 [Japan KDE User Group](https://jp.kde.org) (Member)
+- ⚙️ [KDE Community](https://identity.kde.org/index.php?r=people/view&uid=futurelemon) (User)
+  - 🌐 [Japan KDE User Group](https://jp.kde.org) (Member)
 
 ### 🔗 Lemon73 Links
 #### Socials
