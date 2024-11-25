@@ -28,7 +28,7 @@
 </a>
 
 #### Languages
-- Japanese (Native / [Kanji Grade 3](./qualifications/japanese.md))
+- Japanese (Native)
 - English (Second-language / [CEFR B1](./qualifications/cefr.md))
 
 #### Certifications
@@ -44,7 +44,7 @@
 ### 🔗 Lemon73 Links
 #### Socials
 - Misskey.io: [@lemon73](https://misskey.io/@lemon73)  
-(Fediverse - You can contact me via Mastodon or Misskey)
+(Fediverse - You can contact me via ActivityPub such as Mastodon, Misskey and others)
 - Matrix: [@lemon73](https://matrix.to/#/@lemon73:matrix.org)
 
 #### Remote Git
