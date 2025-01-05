@@ -1,15 +1,15 @@
-## 👋 Hello!
+## 👋 Hi!
 <a href="https://lemon73-computing.github.io/">
     <img src="https://img.shields.io/badge/WebSite-12100E?logo=html5&color=fe6e95&logoColor=white" />
 </a>
+<a href="https://github.com/Lemon73-Computing">
+    <img src="https://img.shields.io/badge/GitHub-12100E?logo=github&color=282A36&logoColor=white" />
+</a>
+<a href="https://misskey.io/@lemon73">
+    <img src="https://img.shields.io/badge/Misskey-12100E?logo=misskey&color=fe6e95&logoColor=white" />
+</a>
 <a href="https://www.reddit.com/user/Lemon73-Computing">
     <img src="https://img.shields.io/badge/Reddit-12100E?logo=reddit&color=282A36&logoColor=white" />
-</a>
-<a href="https://github.com/Lemon73-Computing">
-    <img src="https://img.shields.io/badge/GitHub-12100E?logo=github&color=fe6e95&logoColor=white" />
-</a>
-<a href="https://gitlab.com/lemon73">
-    <img src="https://img.shields.io/badge/Gitlab-12100E?logo=gitlab&color=282A36&logoColor=white" />
 </a>
 
 ### 📈 GitHub stats
@@ -31,8 +31,10 @@
 - Japanese (Native)
 - English (Second-language / [CEFR B1](./qualifications/cefr.md))
 
+<!--
 #### Certifications
 - [Mathematics Grade 3](./qualifications/math.md) certificated by Japanese foundation (The Mathematics Certification Institute of Japan). (2020)
+-->
 
 ### 🏢 Organizations
 - 🍋 [Lemon's Resting Area](https://lemon73-computing.github.io) (Administrator)
@@ -60,5 +62,5 @@
 #### My own websites
 - [Lemon's Resting Area website](https://lemon73-computing.github.io) (Japanese)
 - [Lemon73 Blog](https://lemon73-computing.github.io/blog/) (Japanese)
-- [LEC website](https://lemon73.gitlab.io) (Japanese)
+- ~~[LEC website](https://lemon73.gitlab.io)~~ (Japanese)
 - [Alice Novel](https://alicenovel.web.app) (Japanese)
