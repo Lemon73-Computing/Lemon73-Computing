@@ -49,18 +49,17 @@
 (Fediverse - You can contact me via ActivityPub such as Mastodon, Misskey and others)
 - Matrix: [@lemon73](https://matrix.to/#/@lemon73:matrix.org)
 
-#### Remote Git
-- GitHub: [@Lemon73-Computing](https://github.com/Lemon73-Computing) (here)
+#### Git Hostings
+- GitHub: [@Lemon73-Computing](https://github.com/Lemon73-Computing)
 - GitLab: [@lemon73](https://gitlab.com/lemon73)
 - KDE Invent: [@futurelemon](https://invent.kde.org/futurelemon)
 
-#### Dev articles
+#### Dev Articles
 - Qiita: [@Lemon73](https://qiita.com/Lemon73) (Japanese)
 - Zenn: [@lemon73](https://zenn.dev/lemon73) (Japanese)
 - Dev.to: [@lemon73](https://dev.to/lemon73) (English)
 
-#### My own websites
-- [Lemon's Resting Area website](https://lemon73-computing.github.io) (Japanese)
-- [Lemon73 Blog](https://lemon73-computing.github.io/blog/) (Japanese)
+#### My Websites
+- [Lemonium (website)](https://lemon73-computing.github.io) (Japanese, English)
 - ~~[LEC website](https://lemon73.gitlab.io)~~ (Japanese)
-- [Alice Novel](https://alicenovel.web.app) (Japanese)
+- [Alice Novel](https://alicenovel.web.app) (Japanese, English)
