@@ -61,7 +61,7 @@
 
 #### My Websites
 - [Lemonium (website)](https://lemon73-computing.github.io) (Japanese, English)
+- [Alice Novel](https://alicenovel.web.app) (Japanese, English)
 <!--
 - ~~[LEC website](https://lemon73.gitlab.io)~~ (Japanese)
 -->
-- [Alice Novel](https://alicenovel.web.app) (Japanese, English)
