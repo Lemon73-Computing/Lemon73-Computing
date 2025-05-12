@@ -24,7 +24,7 @@
 ### 💼 My skills
 #### General
 <a href="https://github.com/Lemon73-Computing?tab=repositories">
-  <img src="https://skillicons.dev/icons?i=bash,blender,bootstrap,cs,css,debian,devto,discord,dotnet,firebase,git,github,githubactions,gitlab,gmail,html,linux,md,mastodon,materialui,misskey,react,ubuntu,unity,vim,visualstudio,vscode,wasm,windows&perline=10" />
+  <img src="https://skillicons.dev/icons?i=bash,blender,bootstrap,cs,css,debian,devto,discord,docker,dotnet,firebase,git,github,githubactions,gitlab,gmail,godot,html,js,linux,md,mastodon,materialui,misskey,nix,npm,py,react,svg,ts,ubuntu,unity,vim,visualstudio,vite,vscode,wasm,windows&perline=10" />
 </a>
 
 #### Languages
