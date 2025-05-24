@@ -1,4 +1,5 @@
 ## 👋 Hi!
+
 <a href="https://lemon73-computing.github.io/">
     <img src="https://img.shields.io/badge/WebSite-12100E?logo=html5&color=fe6e95&logoColor=white" />
 </a>
@@ -13,6 +14,7 @@
 </a>
 
 ### 📈 GitHub stats
+
 <a href="https://github.com/Lemon73-Computing?tab=repositories">
   <img src="https://github-readme-stats.vercel.app/api?username=Lemon73-Computing&show_icons=true&rank_icon=github&theme=dracula&hide_border=true&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemon73-Computing&layout=compact&theme=dracula&hide_border=true&count_private=true&hide=html,markdown,css,scss,jupyter%20notebook" /><br />
@@ -22,44 +24,57 @@
 
 ---
 ### 💼 My skills
+
 #### General
+
 <a href="https://github.com/Lemon73-Computing?tab=repositories">
   <img src="https://skillicons.dev/icons?i=bash,blender,bootstrap,cs,css,debian,devto,discord,docker,dotnet,firebase,git,github,githubactions,gitlab,gmail,godot,html,js,linux,md,mastodon,materialui,misskey,nix,npm,py,react,svg,ts,ubuntu,unity,vim,visualstudio,vite,vscode,wasm,windows&perline=10" />
 </a>
 
 #### Languages
+
 - Japanese (Native)
 - English (Second-language / [CEFR B1](./qualifications/cefr.md))
 
 <!--
 #### Certifications
+
 - [Mathematics Grade 3](./qualifications/math.md) certificated by Japanese foundation (The Mathematics Certification Institute of Japan). (2020)
 -->
 
 ### 🏢 Organizations
+
 - 🍋 [Lemon's Resting Area](https://lemon73-computing.github.io) (Administrator)
   - 🌿 Ivy Cafeteria / [GitHub](https://github.com/IvyCafe)
   - 📕 [Alice Project](https://alicenovel.web.app) / [GitHub](https://github.com/AliceNovel)
 - ⚙️ [KDE Community](https://kde.org) ([User](https://identity.kde.org/index.php?r=people/view&uid=futurelemon))
   - 🌐 [Japan KDE User Group](https://jp.kde.org) (Member)
+<!--
+- 🟣 [.NET Foundation](https://dotnetfoundation.org) (Member)
+-->
 
 ### 🔗 Lemon73 Links
+
 #### Socials
+
 - Misskey.io: [@lemon73](https://misskey.io/@lemon73)  
 (Fediverse - You can contact me via ActivityPub such as Mastodon, Misskey and others)
 - Matrix: [@lemon73](https://matrix.to/#/@lemon73:matrix.org)
 
 #### Git Hostings
+
 - GitHub: [@Lemon73-Computing](https://github.com/Lemon73-Computing)
 - GitLab: [@lemon73](https://gitlab.com/lemon73)
 - KDE Invent: [@futurelemon](https://invent.kde.org/futurelemon)
 
 #### Dev Articles
+
 - Qiita: [@Lemon73](https://qiita.com/Lemon73) (Japanese)
 - Zenn: [@lemon73](https://zenn.dev/lemon73) (Japanese)
 - Dev.to: [@lemon73](https://dev.to/lemon73) (English)
 
 #### My Websites
+
 - [Lemonium (website)](https://lemon73-computing.github.io) (Japanese, English)
 - [Alice Novel](https://alicenovel.web.app) (Japanese, English)
 <!--
