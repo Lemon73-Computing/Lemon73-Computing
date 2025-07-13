@@ -49,10 +49,7 @@
   - 📕 [Alice Project](https://alicenovel.web.app) / [GitHub](https://github.com/AliceNovel)
 - ⚙️ [KDE Community](https://kde.org) ([User](https://identity.kde.org/index.php?r=people/view&uid=futurelemon))
   - 🌐 [Japan KDE User Group](https://jp.kde.org) (Member)
-<!--
-- 🟣 [.NET Foundation](https://dotnetfoundation.org) (Member)
--->
-  - 🐧 [MauiGtk Community](https://github.com/MauiGtk) (Owner)
+- 🐧 [MauiGtk Community](https://github.com/MauiGtk) (Owner)
 
 ### 🔗 Lemon73 Links
 
@@ -76,8 +73,5 @@
 
 #### My Websites
 
-- [Lemonium (website)](https://lemon73-computing.github.io) (Japanese, English)
-- [Alice Novel](https://alicenovel.web.app) (Japanese, English)
-<!--
-- ~~[LEC website](https://lemon73.gitlab.io)~~ (Japanese)
--->
+- [Lemonium](https://lemon73-computing.github.io) (Japanese, English)
+- [Alice Docs](https://alicenovel.web.app) (Japanese, English)
