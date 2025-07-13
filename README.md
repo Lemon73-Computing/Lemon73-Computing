@@ -52,6 +52,7 @@
 <!--
 - 🟣 [.NET Foundation](https://dotnetfoundation.org) (Member)
 -->
+  - 🐧 [MauiGtk Community](https://github.com/MauiGtk) (Owner)
 
 ### 🔗 Lemon73 Links
 
