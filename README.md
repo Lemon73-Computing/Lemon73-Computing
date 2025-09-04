@@ -50,7 +50,7 @@
 - ⚙️ [KDE Community](https://kde.org) ([User](https://identity.kde.org/index.php?r=people/view&uid=futurelemon))
   - 🇯🇵 [Japan KDE User Group](https://jp.kde.org) (Member)
 - 🟣 [.NET Foundation](https://dotnetfoundation.org/) (Member) / [GitHub](https://github.com/dotnet-foundation)
-- 🐧 [MauiGtk Community](https://github.com/MauiGtk) (Owner)
+- 🐧 MauiGtk Community (Owner) / [GitHub](https://github.com/MauiGtk)
 
 ### 🔗 Lemon73 Links
 
