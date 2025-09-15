@@ -1,6 +1,6 @@
 ## 👋 Hi!
 
-<a href="https://lemon73-computing.github.io/">
+<a href="https://lemonium.net">
     <img src="https://img.shields.io/badge/WebSite-12100E?logo=html5&color=fe6e95&logoColor=white" />
 </a>
 <a href="https://github.com/Lemon73-Computing">
@@ -44,7 +44,7 @@
 
 ### 🏢 Organizations
 
-- 🍋 [Lemon's Resting Area](https://lemon73-computing.github.io) (Administrator)
+- 🍋 [Lemon's Resting Area](https://lemonium.net) (Administrator)
   - 🌿 Ivy Cafeteria / [GitHub](https://github.com/IvyCafe)
   - 📕 [Alice Project](https://alicenovel.web.app) / [GitHub](https://github.com/AliceNovel)
 - ⚙️ [KDE Community](https://kde.org) ([User](https://identity.kde.org/index.php?r=people/view&uid=futurelemon))
@@ -74,5 +74,5 @@
 
 #### My Websites
 
-- [Lemonium](https://lemon73-computing.github.io) (Japanese, English)
+- [Lemonium](https://lemonium.net) (Japanese, English)
 - [Alice Docs](https://alicenovel.web.app) (Japanese, English)
