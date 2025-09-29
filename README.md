@@ -48,7 +48,7 @@
   - 🌿 Ivy Cafeteria / [GitHub](https://github.com/IvyCafe)
   - 📕 [Alice Project](https://alicenovel.web.app) / [GitHub](https://github.com/AliceNovel)
 - ⚙️ [KDE Community](https://kde.org) ([User](https://identity.kde.org/index.php?r=people/view&uid=futurelemon))
-  - 🇯🇵 [Japan KDE User Group](https://jp.kde.org) (Member)
+  - 🌸 [Japan KDE User Group](https://jp.kde.org) (Member)
 - 🟣 [.NET Foundation](https://dotnetfoundation.org/) (Member) / [GitHub](https://github.com/dotnet-foundation)
 - 🐧 MauiGtk Community (Owner) / [GitHub](https://github.com/MauiGtk)
 
