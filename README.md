@@ -38,13 +38,11 @@
 
 #### Certifications
 
-- Fundamental Information Technology Engineer[^itee] (2025)
+- Fundamental Information Technology Engineer (2025 / [ITSS level2](./docs/skills/itee.md))
 
 <!--
 - [Mathematics Grade 3](./docs/skills/math.md) certificated by Japanese foundation (The Mathematics Certification Institute of Japan). (2020)
 -->
-
-[^itee]: <https://www.ipa.go.jp/en/about/it-talents/itee.html>
 
 ### 🏢 Organizations
 
