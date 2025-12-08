@@ -47,19 +47,19 @@
 ### 🏢 Organizations
 
 - 🍋 [Lemon's Resting Area](https://lemonium.net) (Administrator)
-  - 🌿 Ivy Cafeteria / [GitHub](https://github.com/IvyCafe)
-  - 📕 [Alice Project](https://alicenovel.web.app) / [GitHub](https://github.com/AliceNovel)
-- ⚙️ [KDE Community](https://kde.org) ([User](https://identity.kde.org/index.php?r=people/view&uid=futurelemon))
-  - 🌸 [Japan KDE User Group](https://jp.kde.org) (Member)
+  - 🌿 Ivy Cafeteria (Ex-officio) / [GitHub](https://github.com/IvyCafe)
+  - 📕 [Alice Project](https://alicenovel.web.app) (Ex-officio) / [GitHub](https://github.com/AliceNovel)
+- ⚙️ [KDE Community](https://kde.org) (User)
+  - 🌸 [Japan KDE User Group](https://jp.kde.org) (Moderator, I18n supporter)
 - 🟣 [.NET Foundation](https://dotnetfoundation.org/) (Member) / [GitHub](https://github.com/dotnet-foundation)
-- 🐧 MauiGtk Community (Owner) / [GitHub](https://github.com/MauiGtk)
+- 🐧 [MauiGtk Community](https://mauigtk.net) ((Sub-)Manager) / [GitHub](https://github.com/MauiGtk)
 
 ### 🔗 Lemon73 Links
 
 #### Socials
 
 - Misskey.io: [@lemon73](https://misskey.io/@lemon73)  
-(Fediverse - You can contact me via ActivityPub such as Mastodon, Misskey and others)
+(Fediverse - You can contact me via ActivityPub such as Misskey, Mastodon, Threads and others)
 - Matrix: [@lemon73](https://matrix.to/#/@lemon73:matrix.org)
 
 #### Git Hostings
