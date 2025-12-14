@@ -11,9 +11,9 @@
 | Knowledge / skills tested | Proficiency in English |
 | Countries / regions | Japan |
 | Languages | English |
-| Website | https://www.eiken.or.jp/eiken/en |
+| Website | <https://www.eiken.or.jp/eiken/en> |
 
-#### Level
+#### Level comparison[^level-comparison]
 
 | [Eiken] level | [CEFR] level | [MEXT] benchmark |
 | - | - | - |
@@ -24,3 +24,5 @@
 [Eiken]: https://www.eiken.or.jp/eiken/en
 [CEFR]: https://www.cambridgeenglish.org/exams-and-tests/cefr
 [MEXT]: https://www.mext.go.jp/en
+
+[^level-comparison]: https://www.eiken.or.jp/eiken/en/grades/
