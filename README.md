@@ -46,13 +46,13 @@
 
 ### 🏢 Organizations
 
-- 🍋 [Lemon's Resting Area](https://lemonium.net) (Administrator)
-  - 🌿 Ivy Cafeteria (Ex-officio) / [GitHub](https://github.com/IvyCafe)
-  - 📕 [Alice Project](https://alicenovel.web.app) (Ex-officio) / [GitHub](https://github.com/AliceNovel)
-- ⚙️ [KDE Community](https://kde.org) (User)
-  - 🌸 [Japan KDE User Group](https://jp.kde.org) (Moderator, I18n supporter)
-- 🟣 [.NET Foundation](https://dotnetfoundation.org/) (Member) / [GitHub](https://github.com/dotnet-foundation)
-- 🐧 [MauiGtk Community](https://mauigtk.net) ((Sub-)Manager) / [GitHub](https://github.com/MauiGtk)
+- 🍋 [Lemon's Resting Area](https://lemonium.net) - administrator
+  - 🌿 Ivy Cafeteria - ex-officio / [GitHub](https://github.com/IvyCafe)
+  - 📕 [Alice Project](https://alicenovel.web.app) - ex-officio / [GitHub](https://github.com/AliceNovel)
+- ⚙️ [KDE Community](https://kde.org) - user
+  - 🌸 [Japan KDE User Group](https://jp.kde.org) - moderator, i18n supporter
+- 🟣 [.NET Foundation](https://dotnetfoundation.org/) - member / [GitHub](https://github.com/dotnet-foundation)
+- 🐧 [MauiGtk Community](https://mauigtk.net) (inactive) - co-manager / [GitHub](https://github.com/MauiGtk)
 
 ### 🔗 Lemon73 Links
 
